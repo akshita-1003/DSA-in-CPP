@@ -11,3 +11,4 @@ int main(){
     return 0;
 
 }
+in this problem i earlier forgot to increase the value of a and turned it into an infinte loop
